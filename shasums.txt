@@ -1,0 +1,11 @@
+e2cecfa08701aacef8b84f955844d801f8682a7336b96ddd8914a3fe55a99709  lab1/src/test/java/ar/uba/fi/compiladores/parte1/RegexLibraryTest.java
+0274371f20212221450b669cd80e4af8360b04822f8cb222b873ccfe4f9a7dd9  lab1/src/test/java/ar/uba/fi/compiladores/parte3/ManualLexerTest.java
+6fe7e2168949132b4c41a6db26ef72c6b7a249e85da8c416a3414d206ba8bdda  lab1/src/test/java/ar/uba/fi/compiladores/parte4/EnglishCommanderTest.java
+f87628380894dcc68ff9b99b7fb1bae3368fe22e08d7cc73956467008a0396d8  lab1/src/test/java/ar/uba/fi/compiladores/parte4/LolTest.java
+5ab44c1889669c4f650361e87265ce0baaacbdf77d4de4e34d452b0886ad220f  lab1/src/test/java/ar/uba/fi/compiladores/parte4/NumbersoupTest.java
+ffca970c47ec2db5d11d6e8dd7e960ce671a4a322dcaa14d99bb5564c05b3471  lab1/src/test/java/ar/uba/fi/compiladores/parte5/HelloTest.java
+f214f2afcac096a643887e1f9549f6101310f51b4ca67c2e617672b0f178a6e3  lab1/src/test/java/ar/uba/fi/compiladores/parte6/BrainfuckAdderTest.java
+29293f6cac73206a491f1336801c8ee7413fd0f5e59867f5b7bfff7b0055f79f  lab1/src/test/java/ar/uba/fi/compiladores/parte6/EnglishCommanderTest.java
+795a80772a25779ba942ea16823bec7612142222c15998ba71165599ca1c1108  lab1/src/test/java/ar/uba/fi/compiladores/parte6/LolTest.java
+e296b9187e66f5640f7c148724b23046fad9d32c49bafffbb0db23357684fb6a  lab1/src/test/java/ar/uba/fi/compiladores/parte6/NumbersoupTest.java
+2d8115dbca37b022dc42b102f6aecd2b0f5fa151f4dd6f33206b5cd25a6ad456  lab1/src/test/java/ar/uba/fi/compiladores/parte7/CompilispTest.java
